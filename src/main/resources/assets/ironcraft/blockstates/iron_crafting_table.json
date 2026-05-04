@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ironcraft:block/iron_crafting_table" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": { "item": "create:industrial_iron_block" }
+  },
+  "result": {
+    "id": "ironcraft:iron_crafting_table",
+    "count": 1
+  }
+}

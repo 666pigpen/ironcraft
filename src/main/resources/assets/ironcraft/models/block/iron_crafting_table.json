@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down":  "ironcraft:block/iron_crafting_table_bottom",
+    "up":    "ironcraft:block/iron_crafting_table_top",
+    "north": "ironcraft:block/iron_crafting_table_front",
+    "south": "ironcraft:block/iron_crafting_table_side",
+    "west":  "ironcraft:block/iron_crafting_table_side",
+    "east":  "ironcraft:block/iron_crafting_table_side",
+    "particle": "ironcraft:block/iron_crafting_table_side"
+  }
+}

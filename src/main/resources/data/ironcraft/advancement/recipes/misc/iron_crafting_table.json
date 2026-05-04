@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_industrial_iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": ["create:industrial_iron_block"] }]
+      }
+    }
+  },
+  "requirements": [["has_industrial_iron"]],
+  "rewards": {
+    "recipes": ["ironcraft:iron_crafting_table"]
+  }
+}

@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+out/
+src/generated/
+
+# Dev run directories
+run/
+
+# Distribution (built by package_mod.sh)
+dist/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials / local overrides
+local.properties
+*.local.properties
+
+# Claude Code
+.claude/
