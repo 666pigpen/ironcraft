@@ -22,12 +22,7 @@ A [Create](https://github.com/Creators-of-Create/Create) add-on for Minecraft 1.
 
 ## Crafting
 
-Place 4 **Create Industrial Iron Blocks** in a 2×2 pattern — the same shape as crafting a vanilla crafting table from planks.
-
-```
-[Industrial Iron Block] [Industrial Iron Block]
-[Industrial Iron Block] [Industrial Iron Block]
-```
+Place 4 **Create Industrial Iron Blocks** in a 2×2 pattern in the inventory
 
 ## Usage
 
